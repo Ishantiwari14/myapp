@@ -1,5 +1,6 @@
 #Basic Git Commands
-Here are some most used git commands:
+
+###Here are some most used git commands:
 ```
 $ git init          // Initialize Local Git Repo
 $ git add <file>    // Add Files to Index
